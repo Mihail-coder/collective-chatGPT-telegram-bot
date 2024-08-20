@@ -4,6 +4,7 @@
 The bot can:
 - respond to messages from group users
 - maintain a dialogue in a group
+- preserve dialog context
 - add emojis to messages
 - possible settings are supported: language, selection of emoticons, frequency of messages and reactions
 
