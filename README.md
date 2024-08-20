@@ -6,6 +6,8 @@ The bot can:
 - maintain a dialogue in a group
 - add emojis to messages
 
+Requirements: Linux/Unix, python 3.8+, Telegram app and user account.
+
 Installation:
 1. Download and extract the repository.
 2. Install all required packages:
