@@ -21,4 +21,4 @@ Installation:
    -Add your bot to the group.
    -Contact him in the group via @yourbotname <any text>.
 5. Run the script run_bot.sh:
-   -sh run_bot.sh
+   sh run_bot.sh
