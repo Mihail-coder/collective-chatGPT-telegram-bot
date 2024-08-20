@@ -17,8 +17,8 @@ Installation:
    - pip install nest-asyncio
 3. In the settings file specify all the necessary settings.
 4. Before the bot starts:
-   -Be shure privacy mode of your bot is disabled.
-   -Add your bot to the group.
-   -Contact him in the group via @yourbotname any text.
-5. Run the script run_bot.sh:
+   Be shure privacy mode of your bot is disabled.
+   Add your bot to the group.
+   Contact him in the group via @yourbotname any text.
+6. Run the script run_bot.sh:
    sh run_bot.sh
