@@ -5,7 +5,7 @@ The bot can:
 - respond to messages from group users
 - maintain a dialogue in a group
 - add emojis to messages
-- possible settings are also supported: language, emoji selection, frequency of messages and reactions
+- possible settings are also supported: language, selection of emoticons, frequency of messages and reactions
 
 Requirements: Linux/Unix, python 3.8+, Telegram app and user account.
 
