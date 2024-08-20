@@ -15,7 +15,10 @@ Installation:
    - pip install Telethon
    - pip install langdetect
    - pip install nest-asyncio
-3. In the settings file specify all the necessary settings.
-4. Before the bot starts: be shure privacy mode of your bot is disabled, add your bot to the group, contact him in the group via @yourbotname any text
-6. Run the script run_bot.sh:
+4. In the settings file specify all the necessary settings.
+5. Before the bot starts:
+   - be shure privacy mode of your bot is disabled
+   - add your bot to the group
+   - contact him in the group via @yourbotname any text
+7. Run the script run_bot.sh:
    sh run_bot.sh
