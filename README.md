@@ -2,7 +2,7 @@
 Сhatbot based on chatGPT for telegram groups. 
 Сreate your own unique chatbot for your group chats, wich can act as user.
 
-The bot can:
+The bot features:
 - respond to messages from group users
 - maintain a dialogue in a group
 - preserve dialog context
