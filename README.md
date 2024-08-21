@@ -8,6 +8,7 @@ The bot can:
 - preserve dialog context
 - typing while generating response
 - add emojis to messages
+- choose your personal avatar and bot name
 - possible settings are supported: various languages, selection of emoticons, frequency of messages and reactions
 
 Requirements: Linux/Unix, python 3.8+, Telegram app and user account.
