@@ -26,5 +26,6 @@ Installation:
    - be shure privacy mode of your bot is disabled
    - add your bot to the group
    - contact him in the group via @yourbotname any text
+   - when you first start the telethon, it asks for your phone number and a code to access your telegram messages.
 7. Run the script run_bot.sh:
    sh run_bot.sh
