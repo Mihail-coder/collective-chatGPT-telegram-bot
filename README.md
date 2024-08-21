@@ -3,12 +3,12 @@
 Сreate your own unique chatbot for your group chats, wich can act as user.
 
 The bot features:
-- respond to messages from group users
-- maintain a dialogue in a group
-- preserve dialog context
+- responding to messages from group users
+- maintaining a dialogue in a group
+- preserving dialog context
 - typing while generating response
-- add emojis to messages
-- choose your personal avatar and bot name
+- can put emoticons on messages
+- provide to choose your personal avatar and bot name
 - possible settings are supported: various languages, selection of emoticons, frequency of messages and reactions
 
 Requirements: Linux/Unix, python 3.8+, Telegram app and user account.
