@@ -241,7 +241,6 @@ async def messages(first, last_answer_id, language, prompt_messages):
 
     return resp.choices[0].message.content, message_id, id2, last_id, delta
 
-
 async def main():
     file_path = os.path.dirname(os.path.realpath(__file__))
     prompt_messages = []
