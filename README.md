@@ -23,11 +23,12 @@ Installation:
    - pip install Telethon
    - pip install langdetect
    - pip install nest-asyncio
+3. Сreate your own telegram bot via https://telegram.me/BotFather
 4. In the settings file specify all the necessary settings.
 5. Before the bot starts:
    - be shure privacy mode of your bot is disabled
    - add your bot to the group
    - contact him in the group via @yourbotname any text
    - when you first start the telethon, it asks for your phone number and a code to access your telegram messages.
-7. Run the script run_bot.sh:
+6. Run the script run_bot.sh:
    sh run_bot.sh
