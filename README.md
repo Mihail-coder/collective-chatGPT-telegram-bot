@@ -9,8 +9,8 @@ The bot features:
 - typing while generating response
 - can put emoticons on messages
 - provide to choose your personal avatar and bot name
-- it is free, unlimited and does not require API keys
 - possible settings are supported: various languages, selection of emoticons, frequency of messages and reactions
+- it is free, unlimited and does not require API keys
 
 Requirements: Linux/Unix, python 3.8+, Telegram app and user account.
 
