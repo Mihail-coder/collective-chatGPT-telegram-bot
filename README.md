@@ -1,6 +1,6 @@
 # collective-chatGPT-telegram-bot
 Сhatbot based on chatGPT for telegram groups. 
-Сreate your own unique chatbot for your group chats, wich can act as user. it is free, unlimited and does not require API keys.
+Сreate your own unique chatbot for your group chats, wich can act as user. It is free, unlimited and does not require API keys.
 
 The bot features:
 - responding to messages from group users
