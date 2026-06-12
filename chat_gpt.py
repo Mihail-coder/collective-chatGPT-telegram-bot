@@ -17,10 +17,13 @@ file_path = os.path.dirname(os.path.realpath(__file__))
 
 with open(file_path + '/settings', 'r') as f:
     data = []
+
     for line in f:
         s = line.strip()
-        string = re.search(r' = (.*?) #', s).group(1)
-        data.append(string)
+
+        if '=' in s:
+            key, value = s.split('=', 1)
+            data.append(value.strip())
 f.close()
 
 API_ID = data[0]
